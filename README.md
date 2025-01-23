@@ -1,5 +1,14 @@
 # Face Recognition System
 
+## Demo
+
+Here is a demonstration of the system in action:
+
+[![Watch the video](https://img.youtube.com/vi/0QeDYOJY57A/0.jpg)](https://github.com/tkhangg0910/Face-Recoginition-System/blob/main/src/Demo/demo.mp4 "Watch the demo video")
+
+Alternatively, you can directly access the video using the link below:
+
+[Demo Video](https://github.com/tkhangg0910/Face-Recoginition-System/blob/main/src/Demo/demo.mp4)
 ## Installation
 
 Follow these steps to install the project:
