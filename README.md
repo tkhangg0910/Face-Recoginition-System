@@ -51,8 +51,12 @@ Below is the pipeline architecture for the **Face Recognition System**:
 ![image](https://github.com/user-attachments/assets/84c0ac14-5aed-4091-a1f8-01255524298f)
 
 ## Reference
-https://phamdinhkhanh.github.io/2020/03/12/faceNetAlgorithm.html\
+https://phamdinhkhanh.github.io/2020/03/12/faceNetAlgorithm.html
+
 https://arxiv.org/abs/1503.03832\
-https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf\
-https://medium.com/pythons-gurus/what-is-the-best-face-detector-ab650d8c1225\
-https://viblo.asia/p/facial-recognition-system-face-alignment-eW65G2BalDO\
+
+https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf
+
+https://medium.com/pythons-gurus/what-is-the-best-face-detector-ab650d8c1225
+
+https://viblo.asia/p/facial-recognition-system-face-alignment-eW65G2BalDO
