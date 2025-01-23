@@ -38,4 +38,4 @@ Follow these steps to install the project:
 
 Below is the pipeline architecture for the **Face Recognition System**:
 
-![image](https://github.com/user-attachments/assets/f5a76f0a-719e-4cb6-b4ae-59eb4615e0fd)
+![image](https://github.com/user-attachments/assets/84c0ac14-5aed-4091-a1f8-01255524298f)
