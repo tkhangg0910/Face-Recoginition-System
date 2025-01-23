@@ -92,3 +92,5 @@ Below is the pipeline architecture for the **Face Recognition System**:
         </mxCell>
     </root>
 </mxGraphModel>
+
+```
