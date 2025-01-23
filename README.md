@@ -16,7 +16,7 @@ Follow these steps to install the project:
     ```bash
     pip install -r requirements.txt
     ```
-Setup milvus in BE:
+Setup Milvus in BE:
 1. Navigate to the DB Backend directory:
     ```bash
     cd src/BE/db
