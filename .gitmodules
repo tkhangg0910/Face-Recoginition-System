@@ -1,0 +1,3 @@
+[submodule "src/FE/facerec"]
+	path = src/FE/facerec
+	url = https://github.com/tkhangg0910/Face-Recoginition-System.git
