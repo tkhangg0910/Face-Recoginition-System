@@ -4,7 +4,7 @@
 
 Here is a demonstration of the system in action:
 
-[![Watch the video](https://img.youtube.com/vi/0QeDYOJY57A/0.jpg)](https://github.com/tkhangg0910/Face-Recoginition-System/blob/main/src/Demo/demo.mp4 "Watch the demo video")
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://github.com/tkhangg0910/Face-Recoginition-System/blob/main/src/Demo/demo.mp4 "Watch the demo video")
 
 Alternatively, you can directly access the video using the link below:
 
