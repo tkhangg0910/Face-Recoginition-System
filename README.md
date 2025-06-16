@@ -2,7 +2,6 @@
 
 Alternatively, you can directly access the video using the link below:
 
-[Demo Video](https://github.com/tkhangg0910/Face-Recoginition-System/blob/main/src/Demo/demo.mp4)
 ## Installation
 
 Follow these steps to install the project:
