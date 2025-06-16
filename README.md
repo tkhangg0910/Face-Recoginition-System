@@ -1,12 +1,5 @@
 # Face Recognition System
 
-## Demo
-
-Here is a demonstration of the system in action:
-
-[![IMAGE ALT TEXT HERE](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=Ju-ulKgFzLQ)
-
-
 Alternatively, you can directly access the video using the link below:
 
 [Demo Video](https://github.com/tkhangg0910/Face-Recoginition-System/blob/main/src/Demo/demo.mp4)
